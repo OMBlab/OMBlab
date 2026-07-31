@@ -1,8 +1,12 @@
 <div align="center">
   
-# Persister Cell Biology Group :mountain:
+<div align="center">
 
-## **Oskar Marín-Béjar Lab**
+# Persister Cell Biology Group 🏔️
+
+<h3>Oskar Marín-Béjar Lab</h3>
+
+</div>
 
 [![OMBLab Bioinformatics](https://img.shields.io/badge/OMBLab%20Bioinformatics-EA4628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OMBLab-Bioinfo)
 
